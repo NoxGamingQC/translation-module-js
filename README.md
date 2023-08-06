@@ -7,7 +7,7 @@ A module that will translate a key to a string.
 [![State](https://img.shields.io/badge/state-In%20development-228C22?style=for-the-badge&labelColor=333333)](#)
 [![Repo size](https://img.shields.io/github/repo-size/NoxGamingQC/translation-module-js?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=333333)](#)
 [![License](https://img.shields.io/github/license/NoxGamingQC/translation-module-js?style=for-the-badge&labelColor=333333)](#)
-[![Snyk security](https://img.shields.io/badge/Snyk%20security-not%20monitored-8E48BF?style=for-the-badge&labelColor=333333)](#)
+[![Snyk security](https://img.shields.io/badge/Snyk%20security-monitored-8E48BF?style=for-the-badge&labelColor=333333)](#)
 [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/NoxGamingQC/translation-module-js?style=for-the-badge&logo=codeclimate&logoColor=%23ffffff&labelColor=333333)](https://codeclimate.com/github/NoxGamingQC/NoxBOT)
 
 
